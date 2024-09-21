@@ -23,3 +23,6 @@ Este projeto tem como objetivo automatizar a geração e o envio de relatórios 
 * Biblioteca smtplib para envio de e-mails.</br>
 * Biblioteca pandas para tratamento de dados.</br>
 * Uma conta de e-mail configurada com acesso SMTP.
+
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias.

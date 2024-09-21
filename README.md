@@ -5,10 +5,10 @@ Este projeto tem como objetivo automatizar a geração e o envio de relatórios 
 
 ## Funcionalidades
 
-*Coleta automática de cotações históricas: Busca as cotações diárias do Ibovespa e do Dólar através de APIs públicas./n
-*Processamento de dados: Geração de um relatório com os principais indicadores do dia (fechamento, variação percentual, etc.)./n
-*Envio automático de e-mail: O relatório gerado é enviado automaticamente para destinatários definidos./n
-*Agendamento diário: O script pode ser configurado para rodar diariamente ao final do pregão da Bolsa de Valores./n
+<br>*Coleta automática de cotações históricas: Busca as cotações diárias do Ibovespa e do Dólar através de APIs públicas.</br>
+*Processamento de dados: Geração de um relatório com os principais indicadores do dia (fechamento, variação percentual, etc.).
+*Envio automático de e-mail: O relatório gerado é enviado automaticamente para destinatários definidos.
+*Agendamento diário: O script pode ser configurado para rodar diariamente ao final do pregão da Bolsa de Valores.
 
 ## Tecnologias Utilizadas
 
